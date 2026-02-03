@@ -2,7 +2,7 @@
   "use strict";
 
   const CONFIG = {
-    chatUrl: "https://script.google.com/a/macros/byui.edu/s/AKfycby72_k2_9Yug_FC55ECoE5sg_zwl_4MkLpyHPdBTlefhr5OGZMHr0GFzBk02OgxGADQAQ/exec",
+    chatUrl: "https://script.google.com/a/macros/byui.edu/s/AKfycbzSCJ0yoQm-Ch26NFmYXxVU5bgmX-KQ_1G3yVbKMLbLZ2pJMdlSMimuw6uoBI2ALei_/exec",
     size: 70,
     offset: 20,
     zIndex: 999999,

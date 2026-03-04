@@ -19,4 +19,7 @@ This is a lightweight and responsive floating chat widget designed for the **FTC
 * **CSS-in-JS:** Styles are injected dynamically to keep the implementation contained in a single file.
 * **Google Apps Script:** Acts as the backend to process chatbot logic via an `iframe`.
 
+
+Add this Script to the project:   <script src="https://cdn.jsdelivr.net/gh/DanielAcostaFranco/ftcchatbotwidget@main/chat-widget.js?v=1.0.1"></script>
+
 ---
